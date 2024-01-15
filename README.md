@@ -1,2 +1,2 @@
 # Link-Tree
- Repositório para estudo de HTML, CSS e JS. Construa seu Link Tree personalizado, aprimorando habilidades práticas de front-end. Ideal para iniciantes.
+ Meu projeto de Link Tree, desenvolvido com HTML, CSS e JS, é um elegante hub de links que reflete minha identidade online. Acesse meu repositório no GitHub para descobrir mais. ✨🔗
